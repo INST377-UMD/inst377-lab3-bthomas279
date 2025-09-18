@@ -1,12 +1,12 @@
 body {
     background-color: rgb(124, 172, 176);
 }
-.main header {
+body header {
     background-color: grey;
     margin: 10px;
     padding: 10px;
 }
-.main footer {
+body footer {
     background-color: grey;
     margin: 10px;
     padding: 10px;
