@@ -26,7 +26,7 @@ body {
 .nav ul li {
     padding: 10px;
 }
-.main-box {
+.box {
     background-color:rgb(43, 226, 159);
     color: black;
     border: 2px solid black;
